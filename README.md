@@ -14,7 +14,7 @@ Extracts movie related features from IMDb database and via sentence transformer,
 [Preprocessing_2_feature_engineering.ipynb](https://github.com/Jasonzhangzzf/movie_recommender_system/blob/main/Preprocessing_2_feature_engineering.ipynb)
 Extracts new features from existing datasets, including Bucketizing zipcode, retrieving movie genres, and most importantly, constructing user and movie historical data by timesetamp.
 
-[model_retrieval.ipynb](https://github.com/Jasonzhangzzf/movie_recommender_system/blob/main/model_retrieval.ipynb) Builds a neuralCF retrieval model 
+[model_retrieval.ipynb](https://github.com/Jasonzhangzzf/movie_recommender_system/blob/main/model_retrieval.ipynb) Builds a neuralCF retrieval model.
 
 [model_ranking.ipynb](https://github.com/Jasonzhangzzf/movie_recommender_system/blob/main/model_ranking.ipynb) Performs normalization, categorization, one-hot encoding, and embedding 
 on numerical and categorical features. Builds neuralCF, DSSM, Wide and Deep, and DeepFM models. Provide an in-depth analysis of result.
